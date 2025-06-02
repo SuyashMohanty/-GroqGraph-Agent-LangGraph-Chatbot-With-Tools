@@ -2,7 +2,7 @@
 
 **GroqGraph Agent** is a powerful and interactive chatbot built with Python, Langchain, LangGraph, and the Groq API. It showcases how to equip a Large Language Model (LLM) with the ability to use external tools, specifically Wikipedia and Arxiv, to answer queries and provide informative responses. The project uses the fast `Gemma2-9b-It` model via Groq for efficient inference.
 
-![GroqGraph Agent Flow](2_Chatbot with Tools.png)
+![GroqGraph Agent Flow](https://github.com/SuyashMohanty/-GroqGraph-Agent-LangGraph-Chatbot-With-Tools/blob/main/2_Chatbot%20with%20Tools.png)
 *(This image shows the LangGraph execution flow where the chatbot can decide to use tools to gather information before responding.)*
 
 ---
